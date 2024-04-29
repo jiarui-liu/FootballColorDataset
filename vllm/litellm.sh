@@ -1,0 +1,1 @@
+litellm --model huggingface/meta-llama/Llama-2-70b-chat-hf --api_base localhost:9570 --port 9580
