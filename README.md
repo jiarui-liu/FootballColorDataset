@@ -2,7 +2,9 @@
 
 `vllm/`: Set up the inference interface of LLMs via [VLLM](https://github.com/vllm-project/vllm).
 
-## Case 1
+## Case 1: Cultural Adaptivity
+
+Our AmbrQA dataset includes 825 objective questions and 825 subjective questions.
 
 Steps:
 1. `question_gen.py`

@@ -139,7 +139,7 @@ def get_score_list(obj_path, subj_path):
     res = [x for x in res if not math.isnan(x)]    
     return res
 
-def get_permutation_score_list(obj_path, subj_path, mode='sub'):
+def get_permutation_score_list(obj_path, subj_path, mode='subj'):
     """
     mode: choose from 'subj', 'obj', 'both'
     """
