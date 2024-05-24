@@ -1,5 +1,4 @@
 import transformers
-import torch
 
 model_name = "meta-llama/Llama-2-7b-hf"
 # model_name = "meta-llama/Llama-2-13b-chat-hf"
