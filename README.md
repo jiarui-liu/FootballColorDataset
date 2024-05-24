@@ -47,8 +47,6 @@ Check `hypo_test.ipynb` for the hypothesis testing.
 
 To reproduce the dataset construction procedure, check [Nils' implementation for case 3](https://github.com/sirnyls/AutoPersonalizationBench/tree/main/case3_Echochamber).
 
-To perform the permutation test on the generated data, run
-
 Check `hypo_test.ipynb` for the hypothesis testing.
 
 ## Citation
